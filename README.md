@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EnRyuu
 - 👀 I’m interested in art, design, music and games.
-- 🌱 I’m currently learning MERN.
-- 💞️ I’m looking to collaborate on projects including p5.js.
+- 🌱 I’m currently learning GSAP and ThreeJS along with React.
 - 📫 How to reach me: emailabhishekp@gmail.com
 
 <!---
