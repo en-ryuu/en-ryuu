@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnRyuu
+- 👋 Hi, I’m Abhishek Pandey (@en-ryuu)
 - 👀 I’m interested in art, design, music and games.
 - 🌱 I’m currently learning GSAP and ThreeJS along with React.
 - 📫 How to reach me: emailabhishekp@gmail.com
